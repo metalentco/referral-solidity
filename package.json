@@ -8,8 +8,8 @@
     "!contracts/mocks",
     "!contracts/examples"
   ],
-  "repository": "git@github.com:thundercore/referral-contract.git",
-  "author": "Lucien Lee <lucien@thundertoken.tw>",
+  "repository": "git@github.com:metalentco/referral-contract.git",
+  "author": "metalentco777@gmail.com",
   "license": "MIT",
   "keywords": [
     "ethereum",
